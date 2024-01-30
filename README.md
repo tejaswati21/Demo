@@ -1,4 +1,4 @@
 # Demo
 This is my git repository
 
-#Author - Tejas Watamwar
+#Author - Tejas Hemant Watamwar 
